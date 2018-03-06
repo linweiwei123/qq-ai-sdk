@@ -60,3 +60,5 @@ typings/
 .idea
 
 .idea/*.xml
+
+dist/

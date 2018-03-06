@@ -1,0 +1,53 @@
+{
+  "_from": "qq-ai-sdk",
+  "_id": "qq-ai-sdk@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-Rj7cnz0rJe6LGrlh+o0Qqw3h39c=",
+  "_location": "/qq-ai-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "qq-ai-sdk",
+    "name": "qq-ai-sdk",
+    "escapedName": "qq-ai-sdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/qq-ai-sdk/-/qq-ai-sdk-1.0.1.tgz",
+  "_shasum": "463edc9f3d2b25ee8b1ab961fa8d10ab0de1dfd7",
+  "_spec": "qq-ai-sdk",
+  "_where": "/Users/yitala/Documents/lww_workspace/front-end/node-qq",
+  "author": {
+    "name": "linweiwei"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "md5": "^2.2.1",
+    "querystring": "^0.2.0",
+    "superagent": "^3.8.2",
+    "urlencode": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "node sdk for ai.qq.com ",
+  "keywords": [
+    "ai.qq.com",
+    "腾讯AI",
+    "node",
+    "js",
+    "sdk"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "qq-ai-sdk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
